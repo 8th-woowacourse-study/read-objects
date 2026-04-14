@@ -18,4 +18,12 @@
 - `md`파일 외에 다른 파일이 커밋되어 있는지 확인한다.
 - 현재 챕터의 커밋을 푸쉬하기 전에 이전 챕터의 PR을 먼저 머지한다.
 
-## 멤버
+### 👥 스터디원
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/jeonwonjun"><img src="https://github.com/jeonwonjun.png" width="200px;" alt=""/><br /><sub><b>jeonwonjun</b></sub></a></td>
+    <td align="center"><a href="https://github.com/zzaekkii"><img src="https://github.com/zzaekkii.png" width="200px;" alt=""/><br /><sub><b>zzaekkii</b></sub></a></td>
+    <td align="center"><a href="https://github.com/ghkdtjfxkd"><img src="https://github.com/ghkdtjfxkd.png" width="200px;" alt=""/><br /><sub><b>ghkdtjfxkd</b></sub></a></td>
+    <td align="center"><a href="https://github.com/JYL35"><img src="https://github.com/JYL35.png" width="200px;" alt=""/><br /><sub><b>JYL35</b></sub></a></td>
+  </tr>
+</table>
